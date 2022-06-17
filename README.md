@@ -15,10 +15,11 @@ The data is being loaded from web with its source code copied into Microsoft Exc
 ---
 # Findings and Recommendations:
 
-Total number of confirmed cases is  150,795,238,246 
-![image](https://user-images.githubusercontent.com/106287208/174332892-7615b400-ff11-44dc-89f2-05954417a6e5.png)
-, while the Total Deaths is 6268173
-
 ![image](https://user-images.githubusercontent.com/106287208/174332568-b778172b-ca38-428a-bbc7-7b314d45336f.png)
+
+![image](https://user-images.githubusercontent.com/106287208/174333389-847c716f-7e04-4cf9-8bcb-6d534ba6271d.png)
+
+![image](https://user-images.githubusercontent.com/106287208/174333576-d5f37d94-46ea-4afd-b023-a6f309c6a5d6.png)
+
 
 
