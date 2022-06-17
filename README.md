@@ -9,8 +9,13 @@ COVID-19 (The coronavirus disease), a communicable respiratory disease broke in 
 The data used is being scraped from COVID-19 github data- https://aka.ms/30DLCOVID19GitHubData while the analysis is done with microsoft excel.
 
 ---
-# Data Transformation
+# Data Transformation:
+The data is being loaded from web with its source code copied into Microsoft Excel- in order from confirmed, deaths to recovered cases. It was transformed into Power Query. Changed the query name, edited the source to remove the column load limit in order to enable update. Made first row as column header and select state/province, country/region, long, lat then unpivot other columns. Deleted Attribute, changed data types and renamed columns from value to confirmed. I duplicated the query and then changed the source with deaths and recovery in other to apply the previous changes then renamed their columns to death and recovered. Also renamed the query name as appropriate. On home tab, I merged query as new for confirmed and death by clicking soen on provincce, country and date. Combined recovered and renamed as consolidated data. Removed unwanted columns such as long, lat, province etc. Changed the data type for date and worked on pivot tables and charts. Then created a dashboard.
 
 ---
-# Findings and Recommendations
+# Findings and Recommendations:
+
+
+![image](https://user-images.githubusercontent.com/106287208/174332568-b778172b-ca38-428a-bbc7-7b314d45336f.png)
+
 
