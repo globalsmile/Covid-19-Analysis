@@ -1,16 +1,17 @@
-# Project NAME: Covid-19-Global Report
+# Project Name: Covid-19-Global Report
 
 ---
 # Project Objective: 
-COVID-19 (The coronavirus disease), a communicable respiratory disease broke in 2019 and has spread to the far ends of the world infecting humans, both young and old. Different countries implemented lockdowns in order to contain the disease and to prevent further spreading while finding medical solution to cure the infected. Over days,months, years and still counting, there are reports of people confirmed to be infected and dead as a result of the outbreak. Accolades to the medical practitioners who have made recovery mostly possible. However, there are data of these reports of cases, deaths and recovery which are available on daily basis. While aspiring to be a data analyst, I have been able to learn to analyse these data- kudos to NG30dayoflearning. This analysis is just to provide an insight into the data provided for different countries.
+The purpose of this analysis is to show the global effect of the Covid-19 pandemic.
 
 ---
 # Data Sourcing:
-The data used is being scraped from COVID-19 github data- https://aka.ms/30DLCOVID19GitHubData while the analysis is done with microsoft excel.
+The data used is a public data from the John Hopkins Whiting School of Engineering github respository: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
 
 ---
 # Data Transformation:
-The data is being loaded from web with its source code copied into Microsoft Excel- in order from confirmed, deaths to recovered cases. It was transformed into Power Query. Changed the query name, edited the source to remove the column load limit in order to enable update. Made first row as column header and select state/province, country/region, long, lat then unpivot other columns. Deleted Attribute, changed data types and renamed columns from value to confirmed. I duplicated the query and then changed the source with deaths and recovery in other to apply the previous changes then renamed their columns to death and recovered. Also renamed the query name as appropriate. On home tab, I merged query as new for confirmed and death by clicking soen on provincce, country and date. Combined recovered and renamed as consolidated data. Removed unwanted columns such as long, lat, province etc. Changed the data type for date and worked on pivot tables and charts. Then created a dashboard.
+Data Transformation was done using Microsoft excel.
+The data was scrapped directly from the source into power query from which preparation and modeling took place.
 
 ---
 # Findings and Recommendations:
