@@ -1,15 +1,20 @@
-# Project Name: Covid-19-Global Report
+# Project Name: 
+
+Covid-19-Global Report
 
 ---
 # Project Objective: 
+
 The purpose of this analysis is to show the global effect of the Covid-19 pandemic.
 
 ---
 # Data Sourcing:
+
 The data used is a public data from the John Hopkins Whiting School of Engineering github respository: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
 
 ---
 # Data Transformation:
+
 Data Transformation was done using Microsoft excel.
 The data was scrapped directly from the source into power query from which preparation and modeling took place.
 
