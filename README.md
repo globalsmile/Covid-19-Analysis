@@ -1,6 +1,6 @@
 # Project Name: 
 
-Covid-19-Global Report
+Covid-19 Global Report
 
 ---
 # Project Objective: 
