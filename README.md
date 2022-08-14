@@ -107,7 +107,7 @@ Figure 1 shows visualizations from `Dashboard` worksheet
 
 | Figure 1 |
 | ----------- |
-| ![image](https://user-images.githubusercontent.com/106287208/183564662-5a1714c7-610e-45f7-be17-6ae94c6a4628.png) |
+| ![image](https://media-exp1.licdn.com/dms/image/C4D22AQEHYmGxOgYrzg/feedshare-shrink_1280/0/1655553835254?e=1663200000&v=beta&t=CodhZHZ6Yy26wSaKzaTPHOcQyumbH0E_Rv9rKESNSzk) |
 
 ---
 
